@@ -1,0 +1,17 @@
+use if and else to find out which numbers are 
+positive negative numbers ?
+
+use if else to find out which numbers are even
+and odd?
+
+use swtich case to find vowels and consonents?
+
+use if and else to find that year is leap or not ?
+
+find square and cube menu drawen?
+
+find area of circel,triangel and rectangle?
+
+find intrest and compound of given values ?
+
+ 
